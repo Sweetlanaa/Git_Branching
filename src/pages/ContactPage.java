@@ -1,6 +1,6 @@
 package pages;
 
-public calss ContactPage {
+public class ContactPage {
   
    // html for email
   
